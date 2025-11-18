@@ -35,14 +35,15 @@ Combine reconstructed data to infer the original structure
 All steps implemented in the script dictionary_ailen_project.py.
 
 ### 🧪 Tech Stack
-Python 3
-Dictionaries
-String Manipulation
-Tuple & List Handling
-Sorting Algorithms
+Python 3 ,
+Dictionaries ,
+String Manipulation , 
+Tuple & List Handling ,
+Sorting Algorithms ,
 
 ### ⭐ Future Enhancements
 Add GUI dashboard for message decoding
+
 Implement real-time alien ↔ scientist communication simulation
 Add error detection & correction algorithms
 Build ML model to predict alien patterns
