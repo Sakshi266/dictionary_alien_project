@@ -28,10 +28,21 @@ Using only "a" repeated N times depending on the dictionary index.
 ✔️ 6. Decode Gibberish Word (Problem 7)
 A cosmic anomaly scrambles letters.
 Scientists receive multiple jumbled variations and must:
-
 Sort letters of each jumbled string alphabetically
 Combine reconstructed data to infer the original structure
 
 ✔️ 7. Full Python Implementation
-
 All steps implemented in the script dictionary_ailen_project.py.
+
+### 🧪 Tech Stack
+Python 3
+Dictionaries
+String Manipulation
+Tuple & List Handling
+Sorting Algorithms
+
+### ⭐ Future Enhancements
+Add GUI dashboard for message decoding
+Implement real-time alien ↔ scientist communication simulation
+Add error detection & correction algorithms
+Build ML model to predict alien patterns
